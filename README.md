@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kumar13roshan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/kumar13roshan/LeetCode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumar13roshan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/kumar13roshan/LeetCode/tree/master/0136-single-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/kumar13roshan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/kumar13roshan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kumar13roshan/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumar13roshan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kumar13roshan/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumar13roshan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/kumar13roshan/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
