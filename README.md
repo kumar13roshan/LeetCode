@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kumar13roshan/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/kumar13roshan/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kumar13roshan/LeetCode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumar13roshan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/kumar13roshan/LeetCode/tree/master/0136-single-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kumar13roshan/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kumar13roshan/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kumar13roshan/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -59,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kumar13roshan/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/kumar13roshan/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
