@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/kumar13roshan/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/kumar13roshan/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumar13roshan/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/kumar13roshan/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/kumar13roshan/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kumar13roshan/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kumar13roshan/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumar13roshan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/kumar13roshan/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumar13roshan/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/kumar13roshan/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kumar13roshan/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kumar13roshan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/kumar13roshan/LeetCode/tree/master/0048-rotate-image) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kumar13roshan/LeetCode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kumar13roshan/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
