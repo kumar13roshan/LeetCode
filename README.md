@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kumar13roshan/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/kumar13roshan/LeetCode/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kumar13roshan/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3870-count-commas-in-range](https://github.com/kumar13roshan/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kumar13roshan/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
 |  |
