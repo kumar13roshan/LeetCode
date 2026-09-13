@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kumar13roshan/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/kumar13roshan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/kumar13roshan/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/kumar13roshan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kumar13roshan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kumar13roshan/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kumar13roshan/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kumar13roshan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/kumar13roshan/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/kumar13roshan/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kumar13roshan/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kumar13roshan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kumar13roshan/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/kumar13roshan/LeetCode/tree/master/0498-diagonal-traverse) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kumar13roshan/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
