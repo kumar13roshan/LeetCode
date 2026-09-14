@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kumar13roshan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kumar13roshan/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumar13roshan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumar13roshan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumar13roshan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kumar13roshan/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kumar13roshan/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kumar13roshan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/kumar13roshan/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/kumar13roshan/LeetCode/tree/master/1051-height-checker) |
 ## Bubble Sort
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kumar13roshan/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/kumar13roshan/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/kumar13roshan/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kumar13roshan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kumar13roshan/LeetCode/tree/master/0836-rectangle-overlap) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kumar13roshan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
