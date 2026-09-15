@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/kumar13roshan/LeetCode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/kumar13roshan/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kumar13roshan/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kumar13roshan/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumar13roshan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumar13roshan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kumar13roshan/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kumar13roshan/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kumar13roshan/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kumar13roshan/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumar13roshan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kumar13roshan/LeetCode/tree/master/0414-third-maximum-number) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kumar13roshan/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/kumar13roshan/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/kumar13roshan/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kumar13roshan/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kumar13roshan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kumar13roshan/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
