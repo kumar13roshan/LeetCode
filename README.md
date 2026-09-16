@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kumar13roshan/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kumar13roshan/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumar13roshan/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0393-utf-8-validation](https://github.com/kumar13roshan/LeetCode/tree/master/0393-utf-8-validation) |
 | [0414-third-maximum-number](https://github.com/kumar13roshan/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumar13roshan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kumar13roshan/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kumar13roshan/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kumar13roshan/LeetCode/tree/master/0136-single-number) |
+| [0393-utf-8-validation](https://github.com/kumar13roshan/LeetCode/tree/master/0393-utf-8-validation) |
 ## Binary Search
 |  |
 | ------- |
