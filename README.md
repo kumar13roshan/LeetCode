@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kumar13roshan/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumar13roshan/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kumar13roshan/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/kumar13roshan/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kumar13roshan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kumar13roshan/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/kumar13roshan/LeetCode/tree/master/0498-diagonal-traverse) |
+| [3498-reverse-degree-of-a-string](https://github.com/kumar13roshan/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
